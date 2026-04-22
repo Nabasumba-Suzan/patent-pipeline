@@ -1,0 +1,10 @@
+
+venv/
+data/*.tsv
+data/*.zip
+data/*.csv
+*.db
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
