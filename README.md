@@ -21,4 +21,6 @@ streamlit run scripts/dashboard.py
 ## Data Source
 PatentsView Granted Patent Disambiguated Data:
 https://data.uspto.gov/bulkdata/datasets/pvgpatdis
-EOF
+
+## GitHub Link
+https://github.com/Nabasumba-Suzan/patent-pipeline/tree/main
